@@ -1,0 +1,596 @@
+fileFormatVersion: 2
+guid: 98be1a355b7864934948064d5fc1ae3d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3736918832272243293
+    second: Axo Red Sprite Sheet_0
+  - first:
+      213: 8906128910270046856
+    second: Axo Red Sprite Sheet_1
+  - first:
+      213: 3183509708748327390
+    second: Axo Red Sprite Sheet_2
+  - first:
+      213: 1751753839898438786
+    second: Axo Red Sprite Sheet_3
+  - first:
+      213: 3938008574225315042
+    second: Axo Red Sprite Sheet_4
+  - first:
+      213: 3538388102422982408
+    second: Axo Red Sprite Sheet_5
+  - first:
+      213: 8899793650077589343
+    second: Axo Red Sprite Sheet_6
+  - first:
+      213: 5438094271011400434
+    second: Axo Red Sprite Sheet_7
+  - first:
+      213: 656725352508359501
+    second: Axo Red Sprite Sheet_8
+  - first:
+      213: 3329751310669582051
+    second: Axo Red Sprite Sheet_9
+  - first:
+      213: -7170800270347680521
+    second: Axo Red Sprite Sheet_10
+  - first:
+      213: -1403525011381871601
+    second: Axo Red Sprite Sheet_11
+  - first:
+      213: -5119871774714732841
+    second: Axo Red Sprite Sheet_12
+  - first:
+      213: 645769012794009126
+    second: Axo Red Sprite Sheet_13
+  - first:
+      213: -3835147236699917636
+    second: Axo Red Sprite Sheet_14
+  - first:
+      213: -1992822352670994364
+    second: Axo Red Sprite Sheet_15
+  - first:
+      213: -1901113426096223586
+    second: Axo Red Sprite Sheet_16
+  - first:
+      213: 4242215125323153552
+    second: Axo Red Sprite Sheet_17
+  - first:
+      213: 144363469510652535
+    second: Axo Red Sprite Sheet_18
+  - first:
+      213: 8288746214653153754
+    second: Axo Red Sprite Sheet_19
+  - first:
+      213: -7960363881215042838
+    second: Axo Red Sprite Sheet_20
+  - first:
+      213: -5744458518261247124
+    second: Axo Red Sprite Sheet_21
+  - first:
+      213: 4938032077939302846
+    second: Axo Red Sprite Sheet_22
+  - first:
+      213: 8897945545108750934
+    second: Axo Red Sprite Sheet_23
+  - first:
+      213: -5606955576504563123
+    second: Axo Red Sprite Sheet_24
+  - first:
+      213: -3614087370434070015
+    second: Axo Red Sprite Sheet_25
+  - first:
+      213: -6861154578475274300
+    second: Axo Red Sprite Sheet_26
+  - first:
+      213: -7921947554171710364
+    second: Axo Red Sprite Sheet_27
+  - first:
+      213: 690534121910615967
+    second: Axo Red Sprite Sheet_28
+  - first:
+      213: 193138950013386013
+    second: Axo Red Sprite Sheet_29
+  - first:
+      213: 6666302981069972533
+    second: Axo Red Sprite Sheet_30
+  - first:
+      213: 1508078933276240704
+    second: Axo Red Sprite Sheet_31
+  - first:
+      213: 357440478098184110
+    second: Axo Red Sprite Sheet_32
+  - first:
+      213: 4998593259754064717
+    second: Axo Red Sprite Sheet_33
+  - first:
+      213: 6911028223648065113
+    second: Axo Red Sprite Sheet_34
+  - first:
+      213: -2845419266327512087
+    second: Axo Red Sprite Sheet_35
+  - first:
+      213: 4350895002289029383
+    second: Axo Red Sprite Sheet_36
+  - first:
+      213: -1388766908097700861
+    second: Axo Red Sprite Sheet_37
+  - first:
+      213: 4769197389323890062
+    second: Axo Red Sprite Sheet_38
+  - first:
+      213: 4040058795004932868
+    second: Axo Red Sprite Sheet_39
+  - first:
+      213: -911301234079679155
+    second: Axo Red Sprite Sheet_40
+  - first:
+      213: 1876065096464226060
+    second: Axo Red Sprite Sheet_41
+  - first:
+      213: -8384888946843544660
+    second: Axo Red Sprite Sheet_42
+  - first:
+      213: 6515561804987013393
+    second: Axo Red Sprite Sheet_43
+  - first:
+      213: 3358332577583352264
+    second: Axo Red Sprite Sheet_44
+  - first:
+      213: 3257157670511285034
+    second: Axo Red Sprite Sheet_45
+  - first:
+      213: 7917109453341251596
+    second: Axo Red Sprite Sheet_46
+  - first:
+      213: -7405292855923180320
+    second: Axo Red Sprite Sheet_47
+  - first:
+      213: -7827497202919067249
+    second: Axo Red Sprite Sheet_48
+  - first:
+      213: 137025798808453433
+    second: Axo Red Sprite Sheet_49
+  - first:
+      213: 6136133294506269883
+    second: Axo Red Sprite Sheet_50
+  - first:
+      213: 8548211144586839592
+    second: Axo Red Sprite Sheet_51
+  - first:
+      213: 3844281465555455561
+    second: Axo Red Sprite Sheet_52
+  - first:
+      213: 6895556977048690375
+    second: Axo Red Sprite Sheet_53
+  - first:
+      213: 7587888875482112869
+    second: Axo Red Sprite Sheet_54
+  - first:
+      213: -6628707451010881831
+    second: Axo Red Sprite Sheet_55
+  - first:
+      213: 3034398407738284732
+    second: Axo Red Sprite Sheet_56
+  - first:
+      213: -4621498878503115928
+    second: Axo Red Sprite Sheet_57
+  - first:
+      213: -6407415690009585952
+    second: Axo Red Sprite Sheet_58
+  - first:
+      213: 2766226132315434908
+    second: Axo Red Sprite Sheet_59
+  - first:
+      213: 7469317512733831566
+    second: Axo Red Sprite Sheet_0
+  - first:
+      213: -1920078230678965056
+    second: Axo Red Sprite Sheet_1
+  - first:
+      213: -4342205466025645144
+    second: Axo Red Sprite Sheet_2
+  - first:
+      213: 7578442795212807356
+    second: Axo Red Sprite Sheet_3
+  - first:
+      213: 8812021521315055601
+    second: Axo Red Sprite Sheet_4
+  - first:
+      213: 5597888197495696522
+    second: Axo Red Sprite Sheet_5
+  - first:
+      213: 7633091680649502969
+    second: Axo Red Sprite Sheet_6
+  - first:
+      213: 5734311099626742037
+    second: Axo Red Sprite Sheet_7
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 2
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Axo Red Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 3302
+        width: 1758
+        height: 569
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81ba1524b858a760800000000000000
+      internalID: 7469317512733831566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axo Red Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 2054
+        y: 3300
+        width: 1725
+        height: 570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c47b6fa5038a55e0800000000000000
+      internalID: -1920078230678965056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axo Red Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 3974
+        y: 3303
+        width: 1748
+        height: 570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab28c772236db3c0800000000000000
+      internalID: -4342205466025645144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axo Red Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 5894
+        y: 3302
+        width: 1752
+        height: 571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc1747e1990c2960800000000000000
+      internalID: 7578442795212807356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axo Red Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1858
+        width: 1756
+        height: 569
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7c413b2e69a4a70800000000000000
+      internalID: 8812021521315055601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axo Red Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 2054
+        y: 1857
+        width: 1759
+        height: 569
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c251028a1bfad40800000000000000
+      internalID: 5597888197495696522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axo Red Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 3974
+        y: 1855
+        width: 1756
+        height: 570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f06a1311703ee960800000000000000
+      internalID: 7633091680649502969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axo Red Sprite Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 5894
+        y: 1853
+        width: 1724
+        height: 569
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 511e4dc309d549f40800000000000000
+      internalID: 5734311099626742037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axo Red Sprite Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 410
+        width: 1728
+        height: 571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4301478a382d1900800000000000000
+      internalID: 656725352508359501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axo Red Sprite Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 2054
+        y: 412
+        width: 1727
+        height: 570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee0adedc27a53e20800000000000000
+      internalID: 3329751310669582051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axo Red Sprite Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 3974
+        y: 416
+        width: 1731
+        height: 570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4c6aa85233c7c90800000000000000
+      internalID: -7170800270347680521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axo Red Sprite Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 5894
+        y: 417
+        width: 1724
+        height: 569
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c1537307da58ce0800000000000000
+      internalID: -1403525011381871601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8c37888f5a7444245a590320702d1ec5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
