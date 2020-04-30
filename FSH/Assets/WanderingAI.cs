@@ -14,8 +14,7 @@ public class WanderingAI : MonoBehaviour
     private UnityEngine.AI.NavMeshAgent agent;
     private float timer;
 
-    // Use this for initialization
-    void OnEnable()
+    void Start()
     {
         agent = GetComponent<UnityEngine.AI.NavMeshAgent>();
         timer = wanderTimer;

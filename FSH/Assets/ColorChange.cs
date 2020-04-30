@@ -2,15 +2,14 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-//[RequireComponent(typeof(AudioSource))]
+[RequireComponent(typeof(AudioSource))]
 public class ColorChange : MonoBehaviour
 {
-
-    //public AudioClip clip;
-
     public GameObject[] objectArray;
+    public float[] pitches;
 
     public int spot;
+    public int setPitch;
 
     public GameObject red;
     public GameObject blue;
@@ -21,6 +20,9 @@ public class ColorChange : MonoBehaviour
 	void Start()
     {
         spot = 0;
+
+        setPitch = 0;
+        pitches = new float[] { 1f, 1.5f, 3f, -2f, -1.5f};
 
         red.SetActive(true);
         blue.SetActive(false);
@@ -37,7 +39,6 @@ public class ColorChange : MonoBehaviour
 
 	void OnTriggerEnter(Collider other)
 	{
-        //AudioSource.Play();
         if (other.gameObject.CompareTag("Fish"))
         {
             objectArray[spot].SetActive(false);
@@ -52,6 +53,24 @@ public class ColorChange : MonoBehaviour
             {
                 spot++;
             }
+        }
+
+        else if (other.gameObject.CompareTag("Plane") == false)
+        {
+            GetComponent<AudioSource>().Play();
+
+            if (setPitch == 4)
+            {
+                setPitch = 0;
+                GetComponent<AudioSource>().pitch = setPitch;
+            }
+
+            else
+            {
+                setPitch++;
+                GetComponent<AudioSource>().pitch = setPitch;
+            }
+
         }
 	}
 }
