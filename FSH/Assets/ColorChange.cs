@@ -35,7 +35,7 @@ public class ColorChange : MonoBehaviour
 
     }
 
-	void OnTriggerExit(Collider other)
+	void OnTriggerEnter(Collider other)
 	{
         //AudioSource.Play();
         if (other.gameObject.CompareTag("Fish"))
