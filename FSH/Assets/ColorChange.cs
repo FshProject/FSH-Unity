@@ -41,16 +41,19 @@ public class ColorChange : MonoBehaviour
 	{
         if (other.gameObject.CompareTag("Fish"))
         {
-            objectArray[spot].SetActive(false);
-            objectArray[spot + 1].SetActive(true);
 
             if (spot == 3)
             {
+                objectArray[spot].SetActive(false);
                 spot = 0;
+                objectArray[spot].SetActive(true);
             }
 
             else
             {
+                objectArray[spot].SetActive(false);
+                objectArray[spot + 1].SetActive(true);
+
                 spot++;
             }
         }
