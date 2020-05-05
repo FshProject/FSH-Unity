@@ -67,5 +67,4 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
 # Temporary Unity Files
-*.DS_Store
 .DS_Store
