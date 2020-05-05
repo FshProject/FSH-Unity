@@ -68,3 +68,4 @@ crashlytics-build.properties
 
 # Temporary Unity Files
 *.DS_Store
+.DS_Store
