@@ -1628,8 +1628,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cam: {fileID: 1793029624}
-  wanderRadius: 0
-  wanderTimer: 0
+  wanderRadius: 1
+  wanderTimer: 0.1
   dude: {fileID: 414896879}
 --- !u!136 &414896884
 CapsuleCollider:
@@ -3468,8 +3468,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cam: {fileID: 1793029624}
-  wanderRadius: 0
-  wanderTimer: 0
+  wanderRadius: 1
+  wanderTimer: 0.1
   dude: {fileID: 1288167096}
 --- !u!136 &1288167100
 CapsuleCollider:
@@ -6335,8 +6335,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cam: {fileID: 1793029624}
-  wanderRadius: 0
-  wanderTimer: 0
+  wanderRadius: 1
+  wanderTimer: 0.1
   dude: {fileID: 2130277098}
 --- !u!136 &2130277101
 CapsuleCollider:
