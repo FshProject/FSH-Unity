@@ -6,10 +6,10 @@ using UnityEngine;
 public class ColorChange : MonoBehaviour
 {
     public GameObject[] objectArray;
-    public float[] pitches;
+    //public float[] pitches;
 
     public int spot;
-    public int setPitch;
+    //public int setPitch;
 
     public GameObject red;
     public GameObject blue;
@@ -21,8 +21,8 @@ public class ColorChange : MonoBehaviour
     {
         spot = 0;
 
-        setPitch = 0;
-        pitches = new float[] { 1f, 1.5f, 3f, -2f, -1.5f};
+        //setPitch = 0;
+        //pitches = new float[] { 1f, 1.5f, 3f, -2f, -1.5f};
 
         red.SetActive(true);
         blue.SetActive(false);
@@ -41,6 +41,7 @@ public class ColorChange : MonoBehaviour
 	{
         if (other.gameObject.CompareTag("Fish"))
         {
+            GetComponent<AudioSource>().Play();
 
             if (spot == 3)
             {
@@ -58,22 +59,22 @@ public class ColorChange : MonoBehaviour
             }
         }
 
-        else if (other.gameObject.CompareTag("Plane") == false)
-        {
-            GetComponent<AudioSource>().Play();
+        //else if (other.gameObject.CompareTag("Plane") == false)
+        //{
+        //    GetComponent<AudioSource>().Play();
 
-            if (setPitch == 4)
-            {
-                setPitch = 0;
-                GetComponent<AudioSource>().pitch = setPitch;
-            }
+        //    if (setPitch == 4)
+        //    {
+        //        setPitch = 0;
+        //        GetComponent<AudioSource>().pitch = setPitch;
+        //    }
 
-            else
-            {
-                setPitch++;
-                GetComponent<AudioSource>().pitch = setPitch;
-            }
+        //    else
+        //    {
+        //        setPitch++;
+        //        GetComponent<AudioSource>().pitch = setPitch;
+        //    }
 
-        }
+        //}
 	}
 }
