@@ -98,7 +98,7 @@ LightmapSettings:
     m_TrainingDataDestination: TrainingData
     m_LightProbeSampleCountMultiplier: 4
   m_LightingDataAsset: {fileID: 0}
-  m_UseShadowmask: 1
+  m_UseShadowmask: 0
 --- !u!196 &4
 NavMeshSettings:
   serializedVersion: 2
@@ -1477,6 +1477,7 @@ GameObject:
   - component: {fileID: 414896883}
   - component: {fileID: 414896882}
   - component: {fileID: 414896881}
+  - component: {fileID: 414896886}
   m_Layer: 0
   m_Name: Octopus
   m_TagString: Untagged
@@ -1492,7 +1493,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 414896879}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.06230706, y: 0.12011385, z: -0.021802843}
+  m_LocalPosition: {x: -0.135, y: 0.12011385, z: 1.69}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 20178757}
@@ -1666,6 +1667,26 @@ NavMeshAgent:
   m_BaseOffset: 0
   m_WalkableMask: 4294967295
   m_ObstacleAvoidanceType: 4
+--- !u!114 &414896886
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 414896879}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15de4371f9e58490dadd8628bc79cfc6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  objectArray: []
+  pitches: []
+  spot: 0
+  setPitch: 0
+  red: {fileID: 848518987}
+  blue: {fileID: 336187858}
+  green: {fileID: 669090768}
+  yellow: {fileID: 20178754}
 --- !u!1 &417783909
 GameObject:
   m_ObjectHideFlags: 0
@@ -2625,6 +2646,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5a917f0af64a6423093132dab321c15f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  StatusFilter: 2
+  OnTargetFound:
+    m_PersistentCalls:
+      m_Calls: []
+  OnTargetLost:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!114 &734883493
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2638,7 +2666,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   mTrackableName: 
-  mPreserveChildSize: 0
   mInitializedInEditor: 0
   mSelectedStageType: 0
   mPlaneReference: {fileID: 0}
@@ -3306,6 +3333,7 @@ GameObject:
   - component: {fileID: 1288167099}
   - component: {fileID: 1288167098}
   - component: {fileID: 1288167102}
+  - component: {fileID: 1288167103}
   m_Layer: 0
   m_Name: Shark
   m_TagString: Untagged
@@ -3321,7 +3349,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1288167096}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 1.39, y: 0, z: -0.51}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 524639097}
@@ -3495,6 +3523,26 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
+--- !u!114 &1288167103
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1288167096}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15de4371f9e58490dadd8628bc79cfc6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  objectArray: []
+  pitches: []
+  spot: 0
+  setPitch: 0
+  red: {fileID: 1400427012}
+  blue: {fileID: 1573861904}
+  green: {fileID: 1710843223}
+  yellow: {fileID: 524639094}
 --- !u!1 &1290138437
 GameObject:
   m_ObjectHideFlags: 0
@@ -4487,7 +4535,7 @@ MonoBehaviour:
   m_OverrideTileSize: 0
   m_TileSize: 256
   m_OverrideVoxelSize: 0
-  m_VoxelSize: 0.16666667
+  m_VoxelSize: 0.016666668
   m_BuildHeightMesh: 0
   m_NavMeshData: {fileID: 23800000, guid: c742e2187a2ee4b61bb17cbb89d6db0e, type: 2}
 --- !u!4 &1649201684
@@ -6246,6 +6294,7 @@ GameObject:
   - component: {fileID: 2130277100}
   - component: {fileID: 2130277104}
   - component: {fileID: 2130277103}
+  - component: {fileID: 2130277105}
   m_Layer: 0
   m_Name: Blobfish
   m_TagString: Untagged
@@ -6261,7 +6310,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2130277098}
   m_LocalRotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: -1.642, y: 0, z: -0.418}
   m_LocalScale: {x: 0.04, y: 0.04, z: 0.04}
   m_Children:
   - {fileID: 2028593409}
@@ -6435,6 +6484,26 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
+--- !u!114 &2130277105
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2130277098}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15de4371f9e58490dadd8628bc79cfc6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  objectArray: []
+  pitches: []
+  spot: 0
+  setPitch: 0
+  red: {fileID: 11305884}
+  blue: {fileID: 1741611894}
+  green: {fileID: 1787088912}
+  yellow: {fileID: 2028593406}
 --- !u!1 &2132531791
 GameObject:
   m_ObjectHideFlags: 0
