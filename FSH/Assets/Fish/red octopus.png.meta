@@ -1,0 +1,1292 @@
+fileFormatVersion: 2
+guid: 1171e2de997d74b5ba1c6a3cf271f815
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -586375352929213187
+    second: red octopus_0
+  - first:
+      213: -6418192605190556834
+    second: red octopus_1
+  - first:
+      213: -1040799471760973502
+    second: red octopus_2
+  - first:
+      213: -1728597333561354215
+    second: red octopus_3
+  - first:
+      213: 5074800388069126631
+    second: red octopus_4
+  - first:
+      213: 2393070715920639384
+    second: red octopus_5
+  - first:
+      213: -3917856957589288149
+    second: red octopus_6
+  - first:
+      213: 7147763013350649721
+    second: red octopus_7
+  - first:
+      213: -9128622910484905384
+    second: red octopus_8
+  - first:
+      213: 280670544186834080
+    second: red octopus_9
+  - first:
+      213: -6076113677873083617
+    second: red octopus_10
+  - first:
+      213: -3183355860180444757
+    second: red octopus_11
+  - first:
+      213: -1990287996689301132
+    second: red octopus_12
+  - first:
+      213: -2166628433563101911
+    second: red octopus_13
+  - first:
+      213: 2744745312035825507
+    second: red octopus_14
+  - first:
+      213: 4442158596465045069
+    second: red octopus_15
+  - first:
+      213: -1651236851160537245
+    second: red octopus_16
+  - first:
+      213: -1282117664139817942
+    second: red octopus_17
+  - first:
+      213: -7979121969077433458
+    second: red octopus_18
+  - first:
+      213: -4526362156252446159
+    second: red octopus_19
+  - first:
+      213: 4278143692325822947
+    second: red octopus_20
+  - first:
+      213: 6834930689634878855
+    second: red octopus_21
+  - first:
+      213: 7550476567017214037
+    second: red octopus_22
+  - first:
+      213: 2254459548085960822
+    second: red octopus_23
+  - first:
+      213: -6286443821066641183
+    second: red octopus_24
+  - first:
+      213: 8029773162955835003
+    second: red octopus_25
+  - first:
+      213: 1792843253220973775
+    second: red octopus_26
+  - first:
+      213: 2026457374023341751
+    second: red octopus_27
+  - first:
+      213: -715083069030019832
+    second: red octopus_28
+  - first:
+      213: -4550298563541927471
+    second: red octopus_29
+  - first:
+      213: -717200339968157403
+    second: red octopus_30
+  - first:
+      213: -770746959052109425
+    second: red octopus_31
+  - first:
+      213: 1058420850831666568
+    second: red octopus_32
+  - first:
+      213: 4605342378809880780
+    second: red octopus_33
+  - first:
+      213: -5732444489770677150
+    second: red octopus_34
+  - first:
+      213: -7508766409962612012
+    second: red octopus_35
+  - first:
+      213: -7277400374928215935
+    second: red octopus_36
+  - first:
+      213: -4823809956059299926
+    second: red octopus_37
+  - first:
+      213: -3846125294746967281
+    second: red octopus_38
+  - first:
+      213: -8510161865206987024
+    second: red octopus_39
+  - first:
+      213: 1219421284300822086
+    second: red octopus_40
+  - first:
+      213: 6148433925542704640
+    second: red octopus_41
+  - first:
+      213: 6222460459689796461
+    second: red octopus_42
+  - first:
+      213: -1879037605634297626
+    second: red octopus_43
+  - first:
+      213: 1890635796909078781
+    second: red octopus_44
+  - first:
+      213: -7746502767773844638
+    second: red octopus_45
+  - first:
+      213: -2517050732121508997
+    second: red octopus_46
+  - first:
+      213: 3372855739362935268
+    second: red octopus_47
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 2
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: red octopus_0
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 2529
+        width: 1211
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df42c9729b6ccd7f0800000000000000
+      internalID: -586375352929213187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red octopus_1
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 2521
+        width: 1245
+        height: 977
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e53f393a4dffde6a0800000000000000
+      internalID: -6418192605190556834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red octopus_2
+      rect:
+        serializedVersion: 2
+        x: 2632
+        y: 2518
+        width: 1216
+        height: 952
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241e54315665e81f0800000000000000
+      internalID: -1040799471760973502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red octopus_3
+      rect:
+        serializedVersion: 2
+        x: 3969
+        y: 2526
+        width: 1208
+        height: 942
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918536532e9c208e0800000000000000
+      internalID: -1728597333561354215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red octopus_4
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 2443
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1ffd4c0105d6640800000000000000
+      internalID: 5074800388069126631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red octopus_5
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 2444
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895e6d81325e53120800000000000000
+      internalID: 2393070715920639384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red octopus_6
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 2443
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b0912dad9f0a9c0800000000000000
+      internalID: -3917856957589288149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red octopus_7
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 2443
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97fe0751794f13360800000000000000
+      internalID: 7147763013350649721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red octopus_8
+      rect:
+        serializedVersion: 2
+        x: 2344
+        y: 2444
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8520e0414dd905180800000000000000
+      internalID: -9128622910484905384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red octopus_9
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 2443
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0acfb257f5425e300800000000000000
+      internalID: 280670544186834080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red octopus_10
+      rect:
+        serializedVersion: 2
+        x: 3651
+        y: 2443
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b8b777dce4daba0800000000000000
+      internalID: -6076113677873083617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red octopus_11
+      rect:
+        serializedVersion: 2
+        x: 3660
+        y: 2444
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9594816b272d3d0800000000000000
+      internalID: -3183355860180444757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red octopus_12
+      rect:
+        serializedVersion: 2
+        x: 3668
+        y: 2443
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4714c9cac931164e0800000000000000
+      internalID: -1990287996689301132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red octopus_13
+      rect:
+        serializedVersion: 2
+        x: 4967
+        y: 2443
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925d5314be69ee1e0800000000000000
+      internalID: -2166628433563101911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red octopus_14
+      rect:
+        serializedVersion: 2
+        x: 4976
+        y: 2444
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36760daa15b471620800000000000000
+      internalID: 2744745312035825507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red octopus_15
+      rect:
+        serializedVersion: 2
+        x: 4984
+        y: 2443
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e2f3a35b7b5ad30800000000000000
+      internalID: 4442158596465045069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red octopus_16
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1275
+        width: 1138
+        height: 961
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367aa8e15d0a519e0800000000000000
+      internalID: -1651236851160537245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red octopus_17
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 1273
+        width: 1095
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c41b407c0053ee0800000000000000
+      internalID: -1282117664139817942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red octopus_18
+      rect:
+        serializedVersion: 2
+        x: 2699
+        y: 1293
+        width: 1111
+        height: 901
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8bcf9528d6744190800000000000000
+      internalID: -7979121969077433458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red octopus_19
+      rect:
+        serializedVersion: 2
+        x: 4047
+        y: 1298
+        width: 1122
+        height: 876
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1324dcfb9912f21c0800000000000000
+      internalID: -4526362156252446159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red octopus_20
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 1232
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1a82785050f5b30800000000000000
+      internalID: 4278143692325822947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red octopus_21
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 1233
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7854a1ccf3d8ade50800000000000000
+      internalID: 6834930689634878855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red octopus_22
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 1232
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 550d8fdfe6ea8c860800000000000000
+      internalID: 7550476567017214037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red octopus_23
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 1232
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670c62ca303794f10800000000000000
+      internalID: 2254459548085960822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red octopus_24
+      rect:
+        serializedVersion: 2
+        x: 2344
+        y: 1233
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0afd8d6a012c8a0800000000000000
+      internalID: -6286443821066641183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red octopus_25
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 1232
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7682fce52c7f6f60800000000000000
+      internalID: 8029773162955835003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red octopus_26
+      rect:
+        serializedVersion: 2
+        x: 3651
+        y: 1232
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc113e907571e810800000000000000
+      internalID: 1792843253220973775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red octopus_27
+      rect:
+        serializedVersion: 2
+        x: 3660
+        y: 1233
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6d12bbe3c6f1c10800000000000000
+      internalID: 2026457374023341751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red octopus_28
+      rect:
+        serializedVersion: 2
+        x: 3668
+        y: 1232
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80dc195ccb38316f0800000000000000
+      internalID: -715083069030019832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red octopus_29
+      rect:
+        serializedVersion: 2
+        x: 4967
+        y: 1232
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9fc12a0971ad0c0800000000000000
+      internalID: -4550298563541927471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red octopus_30
+      rect:
+        serializedVersion: 2
+        x: 4976
+        y: 1233
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5299867371efb06f0800000000000000
+      internalID: -717200339968157403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red octopus_31
+      rect:
+        serializedVersion: 2
+        x: 4984
+        y: 1232
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f898cfd69b1cd45f0800000000000000
+      internalID: -770746959052109425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red octopus_32
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 97
+        width: 1073
+        height: 882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d20b4f72440be00800000000000000
+      internalID: 1058420850831666568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red octopus_33
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 122
+        width: 1148
+        height: 876
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0f30e4e7679ef30800000000000000
+      internalID: 4605342378809880780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red octopus_34
+      rect:
+        serializedVersion: 2
+        x: 2708
+        y: 91
+        width: 1120
+        height: 875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26cc29cbb144270b0800000000000000
+      internalID: -5732444489770677150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red octopus_35
+      rect:
+        serializedVersion: 2
+        x: 3989
+        y: 152
+        width: 1181
+        height: 886
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da1bc8bbb08bc790800000000000000
+      internalID: -7508766409962612012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red octopus_36
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 21
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180fb149aea710b90800000000000000
+      internalID: -7277400374928215935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red octopus_37
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 22
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aafb71117626e0db0800000000000000
+      internalID: -4823809956059299926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red octopus_38
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 21
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0366fc0c61df9ac0800000000000000
+      internalID: -3846125294746967281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red octopus_39
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 21
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f603435fd4d5e980800000000000000
+      internalID: -8510161865206987024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red octopus_40
+      rect:
+        serializedVersion: 2
+        x: 2344
+        y: 22
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6461d4282314ce010800000000000000
+      internalID: 1219421284300822086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red octopus_41
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 21
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006fee85410a35550800000000000000
+      internalID: 6148433925542704640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red octopus_42
+      rect:
+        serializedVersion: 2
+        x: 3651
+        y: 21
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6369b0f1de9a5650800000000000000
+      internalID: 6222460459689796461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red octopus_43
+      rect:
+        serializedVersion: 2
+        x: 3660
+        y: 22
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e03194d0415ce5e0800000000000000
+      internalID: -1879037605634297626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red octopus_44
+      rect:
+        serializedVersion: 2
+        x: 3668
+        y: 21
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df837628d33ec3a10800000000000000
+      internalID: 1890635796909078781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red octopus_45
+      rect:
+        serializedVersion: 2
+        x: 4967
+        y: 21
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b724386c4ee7490800000000000000
+      internalID: -7746502767773844638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red octopus_46
+      rect:
+        serializedVersion: 2
+        x: 4976
+        y: 22
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73b24ee1b3a11dd0800000000000000
+      internalID: -2517050732121508997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red octopus_47
+      rect:
+        serializedVersion: 2
+        x: 4984
+        y: 21
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e18d5fbc6acece20800000000000000
+      internalID: 3372855739362935268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5f5d7f5b5dff54ee7a000a1f89b23f8d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
