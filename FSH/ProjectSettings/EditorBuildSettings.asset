@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/FSH.unity
     guid: a545efec4f4e1474ab23068cce5b2863
+  - enabled: 0
+    path: Assets/Scenes/Fish.unity
+    guid: 475a779fd38e44a60bc0942416a026aa
   m_configObjects: {}
