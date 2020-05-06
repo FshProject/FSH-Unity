@@ -3205,7 +3205,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7510141377938487c930d977e4eae747, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  cam: {fileID: 0}
+  cam: {fileID: 1793029624}
   wanderRadius: 1
   wanderTimer: 0.1
   dude: {fileID: 1071906157}
@@ -5753,7 +5753,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7510141377938487c930d977e4eae747, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  cam: {fileID: 0}
+  cam: {fileID: 1793029624}
   wanderRadius: 1
   wanderTimer: 0.1
   dude: {fileID: 1894200628}
@@ -6065,7 +6065,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7510141377938487c930d977e4eae747, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  cam: {fileID: 0}
+  cam: {fileID: 1793029624}
   wanderRadius: 1
   wanderTimer: 0.1
   dude: {fileID: 1932072388}
