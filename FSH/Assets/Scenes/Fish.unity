@@ -968,6 +968,7 @@ GameObject:
   - component: {fileID: 734883494}
   - component: {fileID: 734883493}
   - component: {fileID: 734883492}
+  - component: {fileID: 734883495}
   m_Layer: 0
   m_Name: Ground Plane Stage
   m_TagString: Untagged
@@ -990,7 +991,18 @@ MonoBehaviour:
   StatusFilter: 2
   OnTargetFound:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 734883495}
+        m_MethodName: OnPlaneFound
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
   OnTargetLost:
     m_PersistentCalls:
       m_Calls: []
@@ -1033,6 +1045,18 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &734883495
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 734883491}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73f60b11a40ee4e83943ac20b4bb98fe, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &848214066
 GameObject:
   m_ObjectHideFlags: 0
