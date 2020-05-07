@@ -8,7 +8,7 @@ public class WanderingAI : MonoBehaviour
     public float wanderRadius;
     public float wanderTimer;
 
-    public GameObject dude;
+    //public GameObject dude;
 
     private Transform target;
     private UnityEngine.AI.NavMeshAgent agent;
@@ -32,9 +32,9 @@ public class WanderingAI : MonoBehaviour
 
             if (Physics.Raycast(ray, out hit))
             {
-                if (hit.collider.gameObject == dude)
+                if (hit.collider.gameObject == gameObject)
                 {
-                    dude.transform.position = new Vector3(hit.point.x, transform.position.y, hit.point.z);
+                    transform.position = new Vector3(hit.point.x, transform.position.y, hit.point.z);
                     return;
                 }
             }
