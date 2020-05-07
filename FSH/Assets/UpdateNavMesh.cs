@@ -5,10 +5,12 @@ using UnityEngine.AI;
 
 public class UpdateNavMesh : MonoBehaviour
 {
+    NavMeshSurface nm;
+
     // Start is called before the first frame update
     void Start()
     {
-        
+        nm = GameObject.FindObjectOfType<NavMeshSurface>();
     }
 
     // Update is called once per frame
@@ -18,6 +20,6 @@ public class UpdateNavMesh : MonoBehaviour
     }
 
     public void OnPlaneFound()
-    {         NavMeshSurface nm = GameObject.FindObjectOfType<NavMeshSurface>();
+    {
         nm.BuildNavMesh();         Debug.Log("FOUND!");     }
 }
