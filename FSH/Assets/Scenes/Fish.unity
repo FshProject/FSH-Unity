@@ -1431,7 +1431,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cam: {fileID: 1793029624}
   wanderRadius: 1
-  wanderTimer: 0.01
+  wanderTimer: 0.02
   dude: {fileID: 1071906157}
 --- !u!65 &1071906163
 BoxCollider:
@@ -1456,7 +1456,7 @@ NavMeshAgent:
   m_Enabled: 1
   m_AgentTypeID: 0
   m_Radius: 0.09
-  m_Speed: 2
+  m_Speed: 1
   m_Acceleration: 8
   avoidancePriority: 50
   m_AngularSpeed: 120
@@ -2666,7 +2666,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cam: {fileID: 1793029624}
   wanderRadius: 1
-  wanderTimer: 0.01
+  wanderTimer: 0.02
   dude: {fileID: 1843706721}
 --- !u!195 &1843706725
 NavMeshAgent:
@@ -2678,7 +2678,7 @@ NavMeshAgent:
   m_Enabled: 1
   m_AgentTypeID: 0
   m_Radius: 0.03
-  m_Speed: 2
+  m_Speed: 1
   m_Acceleration: 8
   avoidancePriority: 50
   m_AngularSpeed: 120
@@ -3014,7 +3014,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cam: {fileID: 1793029624}
   wanderRadius: 1
-  wanderTimer: 0.01
+  wanderTimer: 0.02
   dude: {fileID: 1894200628}
 --- !u!195 &1894200635
 NavMeshAgent:
@@ -3026,7 +3026,7 @@ NavMeshAgent:
   m_Enabled: 1
   m_AgentTypeID: 0
   m_Radius: 0.05
-  m_Speed: 2
+  m_Speed: 1
   m_Acceleration: 8
   avoidancePriority: 50
   m_AngularSpeed: 120
@@ -3325,7 +3325,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cam: {fileID: 1793029624}
   wanderRadius: 1
-  wanderTimer: 0.01
+  wanderTimer: 0.02
   dude: {fileID: 1932072388}
 --- !u!65 &1932072394
 BoxCollider:
@@ -3350,7 +3350,7 @@ NavMeshAgent:
   m_Enabled: 1
   m_AgentTypeID: 0
   m_Radius: 0.06
-  m_Speed: 2
+  m_Speed: 1
   m_Acceleration: 8
   avoidancePriority: 50
   m_AngularSpeed: 120
