@@ -570,7 +570,7 @@ AudioSource:
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
-  Loop: 0
+  Loop: 1
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
@@ -1343,12 +1343,12 @@ Transform:
   - {fileID: 204009935}
   - {fileID: 848214070}
   - {fileID: 1071906158}
-  - {fileID: 1932072389}
-  - {fileID: 1894200629}
-  - {fileID: 1843706722}
-  - {fileID: 829663240}
   - {fileID: 1623723445}
+  - {fileID: 1932072389}
+  - {fileID: 829663240}
+  - {fileID: 1894200629}
   - {fileID: 1266665633}
+  - {fileID: 1843706722}
   - {fileID: 1719141085}
   - {fileID: 1119337042}
   - {fileID: 262373859}
@@ -1507,7 +1507,7 @@ Transform:
   - {fileID: 77470286}
   - {fileID: 1376322336}
   m_Father: {fileID: 734883494}
-  m_RootOrder: 6
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!136 &829663241
 CapsuleCollider:
@@ -2763,7 +2763,7 @@ Transform:
   - {fileID: 885891961}
   - {fileID: 822821261}
   m_Father: {fileID: 734883494}
-  m_RootOrder: 8
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!136 &1266665634
 CapsuleCollider:
@@ -3833,7 +3833,7 @@ Transform:
   - {fileID: 608296718}
   - {fileID: 1868855638}
   m_Father: {fileID: 734883494}
-  m_RootOrder: 7
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!136 &1623723446
 CapsuleCollider:
@@ -4787,7 +4787,7 @@ Transform:
   - {fileID: 294721978}
   - {fileID: 2040727886}
   m_Father: {fileID: 734883494}
-  m_RootOrder: 5
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1843706723
 MonoBehaviour:
@@ -5111,7 +5111,7 @@ Transform:
   - {fileID: 281595570}
   - {fileID: 1799847388}
   m_Father: {fileID: 734883494}
-  m_RootOrder: 4
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!136 &1894200630
 CapsuleCollider:
@@ -5435,7 +5435,7 @@ Transform:
   - {fileID: 1724973430}
   - {fileID: 2045017982}
   m_Father: {fileID: 734883494}
-  m_RootOrder: 3
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1932072390
 MonoBehaviour:
